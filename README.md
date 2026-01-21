@@ -146,11 +146,26 @@ Normal text follows.
 - **Cloud Integration**: Support for loading/saving from cloud storage (e.g., Google Drive).
 - **Live Preview**: Show cleaning results in real-time as options are selected.
 
-## Contributing
-Feel free to fork this repository, submit issues, or contribute pull requests. Suggestions for additional watermark patterns or detection methods are welcome!
+## Contribution Policy
+
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
 
 ## License
-This project is licensed under the MIT License.
+This project is not open-source.
 
-## Contact
-For support or feature requests, contact the developer through the repository's issue tracker.
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
